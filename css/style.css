@@ -1,0 +1,27 @@
+body{
+    padding-top: 100px;
+}
+.text1{
+    color: #e98208;
+    font-size: 50px;
+    font-family: Orbitron;
+    letter-spacing: 7px;
+    position: relative;
+}
+.myClock{
+    color: #e98208;
+    font-size: 60px;
+    font-family: Orbitron;
+    letter-spacing: 7px;
+    position: relative;
+}
+
+.text2{
+    position: relative;
+    color: #e98208;
+    font-size: 40px;
+    font-family: Orbitron;
+    letter-spacing: 7px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
